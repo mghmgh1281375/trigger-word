@@ -1,0 +1,2 @@
+# trigger-word
+ضبط‌کن

@@ -1,19 +1,6 @@
 # trigger-word
 ضبط‌کن
 
-# Instruction for old dataset
-1. Cloning repository
-  ```bash
-  user@PC:~$ git clone https://github.com/mghmgh1281375/trigger-word.git
-  ```
-2. Concatenating zip chunks
-  ```bash
-  user@PC:~$ cat trigger-word/ZIPCHUNKS* > raw_data.zip
-  ```
-3. Extracting files
-  ```bash
-  user@PC:~$ unzip raw_data.zip
-  ```
 -----
 
 # Instruction for new dataset

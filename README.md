@@ -1,7 +1,6 @@
 # trigger-word
 ضبط‌کن
 
------
 
 # Instruction for new dataset
 1. Cloning repository
